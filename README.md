@@ -1,8 +1,6 @@
-# Welcome to your CDK TypeScript project
+# Welcome to Load balancer instances with CDK v2
 
-This is a blank project for CDK development with TypeScript.
-
-The `cdk.json` file tells the CDK Toolkit how to execute your app.
+This is a load balancer application connected with two EC2 instances.
 
 ## Useful commands
 
